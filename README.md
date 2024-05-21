@@ -2,7 +2,7 @@
 
 Welcome to my GitHub page!
 
-- :bee: I am a dedicated and highly motivated recent graduate with a Master of Science in Electrical and Computer Engineering from Boston University, specializing in Data Analytics.
+- 🍄: I am a dedicated and highly motivated recent graduate with a Master of Science in Electrical and Computer Engineering from Boston University, specializing in Data Analytics.
 
 - :ribbon: I am enthusiastic about connecting with professionals with a mutual passion for new biotechnology and innovation. 
 
