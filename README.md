@@ -2,7 +2,7 @@
 
 Welcome to my GitHub page!
 
-My name is Phuong Khanh Tran, or Jade.
+My name is Jade Tran!
 
 - 🍄 I am a dedicated and highly motivated recent graduate with a Master of Science in Electrical and Computer Engineering from Boston University, specializing in Data Analytics.
 
