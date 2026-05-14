@@ -6,7 +6,7 @@ My name is Jade Tran!
 
 🎀 I graduated from Boston University with a Master of Science in Electrical and Computer Engineering, specializing in Data Analytics.
 
-✉️ You can reach me at kontact@bu.edu
+✉️ You can reach me at khanhaddress@gmail.com
 
 👽 Nice to meet you!
 
