@@ -4,9 +4,11 @@ Welcome to my GitHub page!
 
 My name is Jade Tran!
 
-- 🎀 I am a dedicated and highly motivated recent graduate with a Master of Science in Electrical and Computer Engineering from Boston University, specializing in Data Analytics.
+🎀 I graduated from Boston University with a Master of Science in Electrical and Computer Engineering, specializing in Data Analytics.
 
-- :envelope: You can reach me at kontact@bu.edu
+✉️ You can reach me at kontact@bu.edu
+
+👽 Nice to meet you!
 
   
 <!--
